@@ -7,6 +7,7 @@ I am a seasoned Machine Learning Engineer with extensive experience in developin
 
 ### 🔭 Currently Exploring
 Here are some areas I'm currently diving into:
+- Generative AI/ LLMs
 - Machine Learning and Artificial Intelligence
 - DevOps and CI/CD Pipelines
 - Data engineering workflows
