@@ -3,7 +3,7 @@
 I'm passionate about harnessing technology to tackle real-world challenges. As a dedicated data enthusiast, I thrive on crafting and optimizing innovative solutions.
 
 ### About Me
-I am a seasoned Machine Learning Engineer with extensive experience in developing end-to-end machine learning solutions. My credentials include certifications as a Google Cloud Professional Machine Learning Engineer and Data Engineer, underlining my expertise in harnessing cloud platforms for scalable and efficient ML deployments.
+I am an experienced Senior Machine Learning Engineer in designing and deploying end-to-end machine learning solutions. I hold a professional certification in Data Engineering and Machine Learning Engineering from Google Cloud and am well-versed in utilizing cloud platforms to design efficient, scalable ML systems. I lead cross-functional teams, mentor junior engineers, and drive the strategic direction of machine learning efforts at the company to impactful results.
 
 ### 🔭 Currently Exploring
 Here are some areas I'm currently diving into:
